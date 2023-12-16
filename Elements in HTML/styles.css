@@ -1,0 +1,97 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  header {
+    text-align: center;
+    color: #3498db;
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  h2 {
+    color: #2ecc71;
+  }
+  
+  ul, ol {
+    margin-bottom: 10px;
+  }
+  
+  .colored-text {
+    color: #e74c3c;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  textarea {
+    width: 100%;
+  }
+  
+  audio, video {
+    margin-top: 10px;
+  }
+  
+  iframe {
+    margin-top: 10px;
+  }
+  
+  figure {
+    margin: 10px 0;
+  }
+  
+  figcaption {
+    text-align: center;
+    font-style: italic;
+  }
+  
+  mark {
+    background-color: yellow;
+  }
+  
+  progress {
+    width: 100%;
+  }
+  
+  output {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  details {
+    margin-top: 10px;
+  }
+  
+  menu {
+    margin-top: 10px;
+  }
+  
+  input[type="text"], input[type="checkbox"], input[type="radio"] {
+    margin-bottom: 5px;
+  }
+  
